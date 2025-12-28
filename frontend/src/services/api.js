@@ -4,7 +4,8 @@
 //   const response = await fetch(`${BASE_URL}/api/dashboard`);
 //   return response.json();
 // }
-const BASE_URL = "http://localhost:5000";
+// const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://smart-inventory-backend-69xx.onrender.com";
 
 export async function fetchDashboardData() {
   const res = await fetch(`${BASE_URL}/api/dashboard`);
