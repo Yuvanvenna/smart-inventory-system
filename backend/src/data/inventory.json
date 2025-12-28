@@ -1,0 +1,47 @@
+[
+  {
+    "id": "158a1df5-f7b8-44d8-bae8-5244cd2b2bac",
+    "name": "Rice 10kg",
+    "category": "Grocery",
+    "currentStock": 45,
+    "minStockLevel": 10,
+    "unitPrice": 600,
+    "createdAt": "2025-12-28T07:25:45.543Z"
+  },
+  {
+    "id": "4e063fc1-efc5-428c-b8dd-e4061cb8feca",
+    "name": "milk packet",
+    "category": "dairy",
+    "currentStock": 100,
+    "minStockLevel": 30,
+    "unitPrice": 28,
+    "createdAt": "2025-12-28T12:20:50.072Z"
+  },
+  {
+    "id": "d3a9a08f-5c3d-4ae0-8875-22c83629037d",
+    "name": "bread",
+    "category": "bakery",
+    "currentStock": 60,
+    "minStockLevel": 15,
+    "unitPrice": 40,
+    "createdAt": "2025-12-28T12:21:43.353Z"
+  },
+  {
+    "id": "cd7d53ae-4f33-49af-83d0-4233afc28a4f",
+    "name": "wheat flour 1kg",
+    "category": "",
+    "currentStock": 100,
+    "minStockLevel": 20,
+    "unitPrice": 80,
+    "createdAt": "2025-12-28T12:23:45.930Z"
+  },
+  {
+    "id": "7940e02d-29f2-43e5-a219-15ac8a2559ac",
+    "name": "oil",
+    "category": "grocery",
+    "currentStock": 20,
+    "minStockLevel": 8,
+    "unitPrice": 950,
+    "createdAt": "2025-12-28T12:25:12.217Z"
+  }
+]
